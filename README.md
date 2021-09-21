@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a Software Engineer Freelance.
 - :mortar_board: I’m a Software Engineer graduated at "Universidad de las Fuerzas Armadas ESPE".
-- :speaker: Languajes: :es: :us:
+- :speaker:  Languajes: :es: :us:
 - 🌱 I’m currently learning: React, TDD, Nest js.
 - 👯 I’m looking to collaborate with developers, designers or anyone i can help.
 - 💬 Ask me about an interesting idea.
