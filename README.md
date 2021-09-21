@@ -15,5 +15,5 @@
 - 😄 Pronouns: My friends usually call me as the Mr. Bear :bear: .
 - :books: I really enjoy spend my time doing some activities like sports or updating my knowledge with online courses.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathannavas&show_icons=true&theme=react) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathannavas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathannavas&show_icons=true&theme=react) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathannavas&layout=compact)
 
