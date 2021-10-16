@@ -11,7 +11,7 @@
   - [Linkedin](https://www.linkedin.com/in/jonathan-gabriel-navas/)
   - [Twitter](https://twitter.com/jgnavas95)
   - [Instagram](https://www.instagram.com/jgnavas.16/)
-  - [My Portfolio](https://jonathan-navas.netlify.app/)
+  - [My Portfolio](https://jonathan-navas.com/)
 - 😄 Pronouns: My friends usually call me as the Mr. Bear :bear: .
 - :books: I really enjoy spend my time doing some activities like sports or updating my knowledge with online courses.
 
