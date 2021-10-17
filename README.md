@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning: React, TDD, Nest js.
 - 👯 I’m looking to collaborate with developers, designers or anyone i can help.
 - 💬 Ask me about an interesting idea.
-- :e-mail: jonathan.navas9@hotmail.com 
+- :e-mail: info@jonathan-navas.com
 - 📫 How to reach me:
   - [Linkedin](https://www.linkedin.com/in/jonathan-gabriel-navas/)
   - [Twitter](https://twitter.com/jgnavas95)
