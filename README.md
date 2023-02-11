@@ -1,9 +1,9 @@
 ### Welcome to my Github repository 👋
 
-- 🔭 I’m currently working as a Software Engineer Freelance.
+- 🔭 I’m currently working as a Frontend Developer.
 - :mortar_board: I’m a Software Engineer graduated at "Universidad de las Fuerzas Armadas ESPE".
 - :speaker:  Languajes: :es: :us:
-- 🌱 I’m currently learning: NextJS, TDD, NestJS.
+- 🌱 I’m currently learning: NextJS, TDD, NestJS, Go.
 - 👯 I’m looking to collaborate with developers, designers or anyone i can help.
 - 💬 Ask me about an interesting idea.
 - :e-mail: info@jonathan-navas.com
